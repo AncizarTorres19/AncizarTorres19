@@ -61,12 +61,12 @@ const ancizar = {
 
 | | Project | What it is | Stack | |
 |:-:|---|---|:-:|:-:|
-| 💪 | **[Level Up](https://github.com/AncizarTorres19/level-up-web)** | Multi-tenant CrossFit platform in production: web, API and mobile app | <img src="https://skillicons.dev/icons?i=nextjs,nestjs,prisma" height="28" /> | [**Live ↗**](https://www.levelupcrossfit.com) |
-| 🥽 | **[Restaurant AR Menu](https://github.com/AncizarTorres19/restaurant-ar-menu)** | Digital menu that places each dish at real size on your table with 3D &amp; AR | <img src="https://skillicons.dev/icons?i=nextjs,express,postgres" height="28" /> | [**Live ↗**](https://ram-carta-3d-ar.vercel.app) |
+| 💪 | **Level Up** <sub>🔒 private</sub> | Multi-tenant CrossFit platform in production: web, API and mobile app | <img src="https://skillicons.dev/icons?i=nextjs,nestjs,prisma" height="28" /> | [**Live ↗**](https://www.levelupcrossfit.com) |
+| 🥽 | **Restaurant AR Menu** <sub>🔒 private</sub> | Digital menu that places each dish at real size on your table with 3D &amp; AR | <img src="https://skillicons.dev/icons?i=nextjs,express,postgres" height="28" /> | [**Live ↗**](https://ram-carta-3d-ar.vercel.app) |
 | 🧭 | **[Portfolio](https://github.com/AncizarTorres19/portafolio-personal)** | Interactive portfolio with 20 projects and live demos | <img src="https://skillicons.dev/icons?i=react,ts,vite" height="28" /> | [**Live ↗**](https://ancizartorres19.github.io/portafolio-personal/) |
 | 🐳 | **[Docker Fundamentos](https://github.com/AncizarTorres19/curso-de-docker-fundamentos)** | nginx + Flask with Docker Compose, deployed on Azure Container Apps | <img src="https://skillicons.dev/icons?i=docker,flask,azure" height="28" /> | [**Live ↗**](https://curso-frontend.ambitioussky-6c4af529.westus2.azurecontainerapps.io) |
-| 🎓 | **[Portal AUNAR](https://github.com/AncizarTorres19/Proyecto-de-Grado-Web-Front)** | Events and students admin portal, web side of my degree project | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="28" /> | [**Live ↗**](https://v0-proyecto-de-grado-web.vercel.app) |
-| ⚡ | **[Marvel Challenge](https://github.com/AncizarTorres19/marvel-challenge-prueba)** | Tech challenge: search, pagination and favorites over Marvel comics | <img src="https://skillicons.dev/icons?i=react,vite,vitest" height="28" /> | [**Live ↗**](https://marvel-challenge-prueba.vercel.app) |
+| 🎓 | **Portal AUNAR** <sub>🔒 private</sub> | Events and students admin portal, web side of my degree project | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="28" /> | [**Live ↗**](https://v0-proyecto-de-grado-web.vercel.app) |
+| ⚡ | **Marvel Challenge** <sub>🔒 private</sub> | Tech challenge: search, pagination and favorites over Marvel comics | <img src="https://skillicons.dev/icons?i=react,vite,vitest" height="28" /> | [**Live ↗**](https://marvel-challenge-prueba.vercel.app) |
 
 <p align="center">
   📚 Open-source learning paths in Spanish:
