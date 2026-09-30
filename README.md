@@ -10,7 +10,7 @@
   <a href="https://ancizartorres19.github.io/portafolio-personal/"><img src="https://img.shields.io/badge/Portfolio-Visit-00F5D4?style=for-the-badge&logo=githubpages&logoColor=0D1117&labelColor=0D1117" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ancizar-torres-lopez-673a591a1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
   <a href="mailto:ancizar.torres.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
-  <a href="https://twitter.com/ancizartorres19"><img src="https://img.shields.io/badge/X-@ancizartorres19-7F5AF0?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X" /></a>
+  <a href="https://x.com/ancizardev?s=11"><img src="https://img.shields.io/badge/X-@ancizartorres19-7F5AF0?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X" /></a>
   <a href="https://instagram.com/ancizar_torres19"><img src="https://img.shields.io/badge/Instagram-@ancizar__torres19-7F5AF0?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
 </p>
 
