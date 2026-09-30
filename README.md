@@ -24,7 +24,7 @@
 const ancizar = {
   role: "Frontend Developer · Full Stack",
   basedIn: "Villavicencio, Colombia 🇨🇴",
-  currently: "Enternova SAS — Bogotá",
+  currently: "Multisalud SAS",
   previously: ["Gaffel", "Inteia", "Hewtec"],
   experience: "5+ years building enterprise web apps",
   focus: ["React", "Next.js", "TypeScript", "Node.js"],
